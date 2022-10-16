@@ -1,0 +1,12 @@
+C:\Projects\New folder\Auction System.exe
+C:\Projects\New folder\Auction System.dll
+C:\Projects\New folder\Auction System.deps.json
+C:\Projects\New folder\Auction System.runtimeconfig.json
+C:\Projects\New folder\Auction System.pdb
+C:\Projects\New folder\Azure.Communication.Sms.dll
+C:\Projects\New folder\Azure.Core.dll
+C:\Projects\New folder\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Projects\New folder\Microsoft.Office.Interop.Outlook.dll
+C:\Projects\New folder\System.Data.OleDb.dll
+C:\Projects\New folder\System.Memory.Data.dll
+C:\Projects\New folder\runtimes\win\lib\net6.0\System.Data.OleDb.dll

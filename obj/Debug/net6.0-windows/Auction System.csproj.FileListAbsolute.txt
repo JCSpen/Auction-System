@@ -1,0 +1,60 @@
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\bin\Debug\net6.0-windows\Auction System.exe
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\bin\Debug\net6.0-windows\Auction System.deps.json
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\bin\Debug\net6.0-windows\Auction System.runtimeconfig.json
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\bin\Debug\net6.0-windows\Auction System.dll
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\bin\Debug\net6.0-windows\Auction System.pdb
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.csproj.AssemblyReference.cache
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.csproj.GenerateResource.cache
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.AssemblyInfoInputs.cache
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.AssemblyInfo.cs
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.csproj.CoreCompileInputs.cache
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.dll
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\refint\Auction System.dll
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.pdb
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.genruntimeconfig.cache
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\ref\Auction System.dll
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction_System.Register.resources
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.csproj.CopyComplete
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction_System.Login.resources
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction_System.Menu.resources
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction_System.SellerMenu.resources
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction_System.AdminMenu.resources
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\bin\Debug\net6.0-windows\Azure.Communication.Sms.dll
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\obj\Debug\net6.0-windows\Auction_System.CustomerSupport.resources
+C:\Users\spenc\Desktop\Project\Auction System\Auction System\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Outlook.dll
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\bin\Debug\net6.0-windows\Auction System.exe
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\bin\Debug\net6.0-windows\Auction System.deps.json
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\bin\Debug\net6.0-windows\Auction System.runtimeconfig.json
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\bin\Debug\net6.0-windows\Auction System.dll
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\bin\Debug\net6.0-windows\Auction System.pdb
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\bin\Debug\net6.0-windows\Azure.Communication.Sms.dll
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\bin\Debug\net6.0-windows\Microsoft.Office.Interop.Outlook.dll
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\bin\Debug\net6.0-windows\System.Data.OleDb.dll
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.OleDb.dll
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.csproj.AssemblyReference.cache
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction_System.AdminMenu.resources
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction_System.CustomerSupport.resources
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction_System.Login.resources
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction_System.Menu.resources
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction_System.Register.resources
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction_System.SellerMenu.resources
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.csproj.GenerateResource.cache
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.AssemblyInfoInputs.cache
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.AssemblyInfo.cs
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.csproj.CoreCompileInputs.cache
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.csproj.CopyComplete
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.dll
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\refint\Auction System.dll
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.pdb
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\Auction System.genruntimeconfig.cache
+C:\Users\spenc\Desktop\Uni Work\Auction System\Auction System\obj\Debug\net6.0-windows\ref\Auction System.dll

@@ -1,0 +1,12 @@
+C:\Users\spenc\Desktop\Auction System.exe
+C:\Users\spenc\Desktop\Auction System.dll
+C:\Users\spenc\Desktop\Auction System.deps.json
+C:\Users\spenc\Desktop\Auction System.runtimeconfig.json
+C:\Users\spenc\Desktop\Auction System.pdb
+C:\Users\spenc\Desktop\Azure.Communication.Sms.dll
+C:\Users\spenc\Desktop\Azure.Core.dll
+C:\Users\spenc\Desktop\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\spenc\Desktop\Microsoft.Office.Interop.Outlook.dll
+C:\Users\spenc\Desktop\System.Data.OleDb.dll
+C:\Users\spenc\Desktop\System.Memory.Data.dll
+C:\Users\spenc\Desktop\runtimes\win\lib\net6.0\System.Data.OleDb.dll
